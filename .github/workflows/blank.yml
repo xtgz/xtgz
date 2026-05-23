@@ -28,7 +28,7 @@ jobs:
 
       - name: Setup Git Configuration
         run: |
-          git config user.email "xtgz@gmail.com"
+          git config user.email "warinfalmi@gmail.com"
           git config user.name "xtgz"
 
       - name: Generate Multiple Commits
